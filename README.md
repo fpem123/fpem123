@@ -16,7 +16,7 @@ This is Ho-seop Lee who is trying to become a good programmer :D
 
 - Study (Spring, Nodejs, Unity, etc...)
 - Web project!
-- Looking for a job 😭
+
 
 ##
 
